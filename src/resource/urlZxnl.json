@@ -1,0 +1,7 @@
+{
+  "basePath":"http://test.ncme.org.cn/zxnl/wx/",  
+  "getZxnl":{
+    "url":"ifs/signup"
+  }
+  
+}

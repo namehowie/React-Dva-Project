@@ -1,0 +1,161 @@
+.am-navbar-left-icon{
+	background:url('./assets/goback.png') no-repeat;
+	background-size: 80%;
+}
+/*.am-list-view-scrollview{
+	top:1.6rem
+}*/
+.list-view-section-body{
+	margin-bottom: 1rem;
+}
+.am-refresh-control-ptr{
+	height: .6rem!important;
+}
+.am-refresh-control-ptr-loading{
+	margin-top: .2rem;
+}
+.am-input-label{
+	font-size: .28rem!important;
+}
+.am-button-primary{
+    background-color: #12bce1!important;
+        border: none!important;
+}
+ #root{
+	background:#fff;
+}
+.am-list-footer{
+   padding: 0 0.3rem 0.3rem 0.3rem!important;
+}
+.am-modal-close-x{
+	display: none
+}
+.am-toast{
+	z-index: 9999999999!important
+}
+.am-flexbox .am-flexbox-item:first-child{
+	border-right: 1px solid #c9c9c9
+}
+.am-button{
+	height: 0.84rem!important;
+    line-height: 0.84rem!important;
+}
+
+input::-webkit-input-placeholder {
+         color: #aab2bd;
+         font-size: .26rem!important;
+     }
+.am-list-item .am-input-control input{
+	font-size: .26rem!important;
+	color:#969696!important;
+}
+.am-modal-wrap{
+	z-index: 999999999!important;
+}
+.am-list-body {
+	border: none!important;
+	margin-top: 1.8rem!important;
+}
+.am-list-body:after{
+	display: none!important;
+}
+.am-modal.am-modal-transparent .am-modal-content{
+	padding-top: 0!important;
+}
+.am-modal.am-modal-transparent .am-modal-content .am-modal-body{
+	padding: 0!important
+}
+.am-flexbox .am-flexbox-item{
+	text-align: center;
+	font-size: .30rem;
+	padding: .11rem 0;
+	margin:.11rem 0!important;
+	height: 0.8rem;
+	line-height: 0.59rem
+}
+.am-list-item .am-list-line .am-list-content div{
+	text-align: center;
+	font-size: .28rem;
+}
+.am-popup-body{
+  margin-top: 1.7rem
+}
+.am-flexbox.am-flexbox-align-middle{
+	height: 0.8rem;
+	position: fixed;
+	top:0.9rem;
+	width: 100%;
+	z-index:9999999;
+	background:#fff;
+	border-bottom: .1rem solid #efeff4
+}
+.am-modal-content,.am-modal{
+	height: 100%!important;
+	width: 100%!important;
+}
+.am-modal-mask{
+  background-color: rgba(0, 0, 0, 0.5)!important;
+}
+.cardModal {
+  height: auto!important;
+  width: 90%!important;
+}
+
+.am-list-item .am-list-line .am-list-content {
+	font-size: .28rem!important;
+}
+.am-list-item .am-list-line .am-list-extra {
+  -webkit-flex-basis: 60%!important;
+  flex-basis: 60%!important;
+	font-size: .24rem!important;
+}
+
+.broadcastList .am-list-body {
+  margin-top: 2rem!important;
+}
+
+.specialList .am-list-body {
+  margin-top: 0!important;
+}
+
+.result {
+  margin-top: .9rem;
+  padding-top: 0.3rem!important;
+  padding-bottom: 0.3rem!important;
+}
+
+.result .am-result-pic {
+  width: .6rem!important;
+  height:.6rem!important;
+  line-height: .6rem!important;
+  background-size: .6rem .6rem!important;
+}
+
+.result .am-result-title {
+	font-size: .32rem!important;
+}
+
+.result .am-result-message {
+	font-size: .26rem!important;
+}
+
+.am-picker-col-item {
+  display: -webkit-box; 
+  display: -moz-box; 
+  display:-webkit-flex;
+  display: -ms-flexbox;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.28rem!important;
+  line-height: unset!important;
+  white-space: normal!important;
+}
+
+.am-picker-col-item-selected {
+  font-size: 0.32rem!important;
+}
+
+.am-activity-indicator {
+    justify-content: center;
+}

@@ -1,0 +1,18 @@
+{
+  "basePath":"/weixin/",  
+  "getPostType":{
+    "url":"post/getPostType.do"
+  },
+  "getPost":{
+    "url":"post/getPost.do"
+  },
+  "hospital":{
+    "url":"hospital/getHospitalByArea.do"
+  },
+  "sendmsg":{
+    "url":"user/sendmsg.do"
+  },
+  "idcardIsRegister":{
+    "url":"user/idcardIsRegister.do"
+  }
+}
